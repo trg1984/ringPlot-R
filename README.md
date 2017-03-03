@@ -1,4 +1,4 @@
-# ringPlot-R
+# Ring Plot in R
 Draw ring plots / donut plots using R. See ringPlot.example.R for usage.
 
 Example output
